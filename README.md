@@ -1,4 +1,4 @@
-\
+
 
 <h1 align="center">Hi there 👋, It's me Mukhtiar Ali</h1>
 
