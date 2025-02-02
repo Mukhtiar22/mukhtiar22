@@ -86,7 +86,7 @@ You can click the Preview link to take a look at your changes.
 <p align="center">
 <a href="https://discord.gg/bmq8tK8r6N" target="_blank" rel="noreferrer">
   <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="100"/>
-<a href="https://www.linkedin.com" target="_blank" rel="noreferrer">
+<a href="https://www.linkedin.com/in/mukhtiar-alie-/" target="_blank" rel="noreferrer">
   <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100"/></a>
 </p>
   <br><br>
