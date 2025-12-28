@@ -29,9 +29,6 @@ You can click the Preview link to take a look at your changes.
   <img src="https://github-readme-streak-stats.herokuapp.com?user=mukhtiar22&theme=dark&count_private=true" width="45%"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukhtiar22&layout=compact&theme=dark&langs_count=10" width="50%"/>
-</p>
 
 <br>
 
