@@ -3,7 +3,7 @@
 <h1 align="center">Hi there 👋, It's me Mukhtiar Ali</h1>
 
 <br/>
-<p align='center'> 🌱 I’m currently learning <b>Deep Learning | Gen AI | Agentic AI </b>. </p>
+<p align='center'> 🌱 I’m currently learning <b>Deep Learning |Computer Vision |Gen AI | Agentic AI </b>. </p>
 <p align='center'> 🔭 I’m currently working on  AI Automation  </p>
 <p align='center'> 👯 I’m looking to collaborate on  <b>Agentic AI</b>. </p>
 
