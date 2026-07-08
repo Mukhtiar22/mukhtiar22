@@ -1,5 +1,25 @@
-# 💫 About Me:
-🔭 I'm currently working on<br>An AI-based Teacher Performance & Engagement Monitoring System — a real-time computer vision pipeline using YOLOv8, MediaPipe Pose, and sequence models (LSTM/BiLSTM/GRU/Transformers) for gesture recognition in classrooms.<br>👯 I'm looking to collaborate on<br>Computer Vision and Generative AI projects — especially applications combining deep learning with real-world video analytics or LLM-powered tools.<br>🌱 I'm looking for help with<br>Scaling deep learning models for production (optimization, deployment, MLOps) and advanced prompt engineering / RAG pipelines for LLM applications.<br>🌱 I'm currently learning<br>Diffusion models, advanced LLM integration techniques, and cloud-based AI deployment on Microsoft Azure.<br>💬 Ask me about<br>Computer Vision, YOLOv8, Pose Estimation, Deep Learning (CNNs, LSTMs, Transformers), Generative AI, LLMs, or Python/PyTorch/TensorFlow in general.<br>⚡ Fun fact<br>I once built an AI system that grades teachers on their body language — turns out gestures can be as data-driven as grades.
+## 💫 About Me:
+
+🔭 **I'm currently working on**
+MERN Stack development, AI Automation, and Agentic AI — building intelligent, autonomous applications that combine full-stack engineering with AI-driven workflows.
+
+🎯 **Previously worked on**
+Machine Learning, Deep Learning, and Computer Vision — including real-time gesture recognition, pose estimation (YOLOv8, MediaPipe), and sequence modeling (LSTM/BiLSTM/GRU/Transformers).
+
+👯 **I'm looking to collaborate on**
+Agentic AI systems, AI automation tools, and full-stack (MERN) applications powered by LLMs and intelligent agents.
+
+🌱 **I'm looking for help with**
+Scaling AI agents for production, building robust automation pipelines, and best practices for integrating LLMs into full-stack apps.
+
+📚 **I'm currently learning**
+Agentic AI frameworks, LLM orchestration, RAG pipelines, and advanced MERN stack architecture.
+
+💬 **Ask me about**
+MERN Stack, AI Automation, Agentic AI, LLMs, Computer Vision, Deep Learning (CNNs, LSTMs, Transformers), or Python/PyTorch/TensorFlow.
+
+⚡ **Fun fact**
+I once built an AI system that grades teachers on their body language — turns out gestures can be as data-driven as grades.
 
 
 # 💻 Tech Stack:
