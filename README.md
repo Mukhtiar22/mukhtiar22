@@ -1,25 +1,23 @@
-## 💫 About Me:
+## About Me:
 
-🔭 **I'm currently working on**
+ **I'm currently working on**
 MERN Stack development, AI Automation, and Agentic AI — building intelligent, autonomous applications that combine full-stack engineering with AI-driven workflows.
 
-🎯 **Previously worked on**
+ **Previously worked on**
 Machine Learning, Deep Learning, and Computer Vision — including real-time gesture recognition, pose estimation (YOLOv8, MediaPipe), and sequence modeling (LSTM/BiLSTM/GRU/Transformers).
 
-👯 **I'm looking to collaborate on**
+ **I'm looking to collaborate on**
 Agentic AI systems, AI automation tools, and full-stack (MERN) applications powered by LLMs and intelligent agents.
 
-🌱 **I'm looking for help with**
+ **I'm looking for help with**
 Scaling AI agents for production, building robust automation pipelines, and best practices for integrating LLMs into full-stack apps.
 
-📚 **I'm currently learning**
+**I'm currently learning**
 Agentic AI frameworks, LLM orchestration, RAG pipelines, and advanced MERN stack architecture.
 
-💬 **Ask me about**
+ **Ask me about**
 MERN Stack, AI Automation, Agentic AI, LLMs, Computer Vision, Deep Learning (CNNs, LSTMs, Transformers), or Python/PyTorch/TensorFlow.
 
-⚡ **Fun fact**
-I once built an AI system that grades teachers on their body language — turns out gestures can be as data-driven as grades.
 
 ## 🛠️ Tech Stack
 
@@ -49,8 +47,6 @@ I once built an AI system that grades teachers on their body language — turns 
 ![](https://github-readme-stats.shion.dev/api?username=Mukhtiar22&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=Mukhtiar22&theme=one_dark_pro&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Mukhtiar22&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-<br>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Mukhtiar22&theme=radical&no-frame=false&no-bg=true&margin-w=4)
