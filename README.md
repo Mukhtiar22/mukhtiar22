@@ -50,6 +50,8 @@ I once built an AI system that grades teachers on their body language — turns 
 ![](https://streak-stats.demolab.com/?user=Mukhtiar22&theme=one_dark_pro&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Mukhtiar22&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+<br>
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Mukhtiar22&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
